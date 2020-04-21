@@ -20,8 +20,10 @@ public class Fruits {
     String p3;
     
 //third commit by Simran
-
 String p4;
+
+//fourth commit by priyanka
+ int s1;
     /**
      * @param args the command line arguments
      */
