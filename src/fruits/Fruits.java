@@ -11,9 +11,14 @@ package fruits;
  */
 public class Fruits {
 
-    
+    // first commit by priyanka
     String p1;
     String p2;
+    
+    
+    // Second commit by priyanka
+    String p3;
+    
     /**
      * @param args the command line arguments
      */
