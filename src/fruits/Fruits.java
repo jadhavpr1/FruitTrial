@@ -19,6 +19,9 @@ public class Fruits {
     // Second commit by priyanka
     String p3;
     
+//third commit by Simran
+
+String p4;
     /**
      * @param args the command line arguments
      */
